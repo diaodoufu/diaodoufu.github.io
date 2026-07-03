@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Doufu's first blog!
 date: 2026-07-03
 description: 一只努力学习的豆腐
